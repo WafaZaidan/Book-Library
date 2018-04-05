@@ -1,0 +1,8 @@
+Hello
+EXCEPTION CAUGHT: 2018-04-05 13:11:54 whoops
+#0 {main}
+EXCEPTION CAUGHT: 2018-04-05 13:12:54 whoops
+#0 {main}
+EXCEPTION CAUGHT: 2018-04-05 13:14:37 SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'Library_v6'
+#0 /Applications/XAMPP/xamppfiles/htdocs/OOP/MySearchResults.php(33): PDO->__construct('mysql:host=loca...', 'roots', NULL, NULL)
+#1 {main}
